@@ -1,0 +1,11 @@
+{
+  "users":
+    {
+      "firstName": "Bob",
+      "lastName": "Ross",
+      "username": "PainterJoy90",
+      "bank": "The Best Bank",
+      "accountnumber": "123456789",
+      "routingnumber": "987654321"
+    }
+}

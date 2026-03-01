@@ -1,0 +1,16 @@
+{
+  "onboarding": {
+    "dialogTitleEnd": "Finished",
+    "dialogContent": "You're all set!",
+    "dialogTitleStart": "Create Bank Account"
+  },
+  "errormessages": {
+    "usernameEmpty": "Username is required",
+    "shortPassword": "Password must contain at least 4 characters",
+    "firstNameEmpty": "First Name is required",
+    "lastNameEmpty": "Last Name is required",
+    "passwordEmpty": "Enter your password",
+    "invalidCredentials": "Username or password is invalid",
+    "confirmPasswordInvalid": "Password does not match"
+  }
+}
